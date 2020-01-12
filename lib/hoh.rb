@@ -18,9 +18,9 @@
    label: "Order"
  }
  
- PORTION_3 = {
+ PORTION_3 = 
    label: "Family",
-   sub_category: {
+   sub_category:{ {
      label: "Genus",
    }
  }
